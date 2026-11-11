@@ -5,6 +5,3 @@ node_modules/
 patients.json
 *.log
 
-DECISION_LOGS/
-DECISIONS.md
-DECISIONS
